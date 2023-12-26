@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aravinth_portfolio/static/css/main.a9a11a7f.css",
+    "main.js": "/aravinth_portfolio/static/js/main.690d635f.js",
+    "static/media/Akash Aravinth CV.pdf": "/aravinth_portfolio/static/media/Akash Aravinth CV.fdeb439141eabd8f5927.pdf",
+    "static/media/main.png": "/aravinth_portfolio/static/media/main.a37a23097db3d22aff2e.png",
+    "static/media/black.png": "/aravinth_portfolio/static/media/black.bfeca723c5d59c8e140b.png",
+    "static/media/java.png": "/aravinth_portfolio/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/react.png": "/aravinth_portfolio/static/media/react.ef28a7569ef18dd72579.png",
+    "index.html": "/aravinth_portfolio/index.html",
+    "main.a9a11a7f.css.map": "/aravinth_portfolio/static/css/main.a9a11a7f.css.map",
+    "main.690d635f.js.map": "/aravinth_portfolio/static/js/main.690d635f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a11a7f.css",
+    "static/js/main.690d635f.js"
+  ]
+}
